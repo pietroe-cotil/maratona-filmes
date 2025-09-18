@@ -15,3 +15,5 @@ Esta é a minha seleção de filmes essenciais.
 - [ ] O Labirinto do Fauno
 - [ ] Homem-Aranha 2
 - [ ] Five Nights at Freddys (Na minha cabeça é fantasia)
+- [ ] De Volta ao Futuro
+- [ ] Avengers Endgame
